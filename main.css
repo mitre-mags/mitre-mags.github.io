@@ -8,7 +8,7 @@
 
 body 
 {	
-        width:60vw;
+        width:63vw;
         margin-left:auto;
         margin-right:auto;   	
 }
@@ -91,15 +91,7 @@ p.cen2
         text-align:center;   
 }
 
-p.cen3 
-{
-        font-family: calibri, arial, sans-serif;
-        font-size:calc(0.65rem + 0.5vw);
-	color:rgba(204, 238, 255, 0.9);
-        text-shadow: 0.1vw 0.1vw 0.1vw rgba(9, 9, 9, 0.5);
-        margin:1vw 0vw 0.5vw 0vw;
-        text-align:center;   
-}
+
 
 h1  
 {
@@ -115,7 +107,7 @@ h1
 
 hr 
 {
- 	height: 0.1vw;
+ 	height: 1px;
         width:60vw;
         background-image:linear-gradient(to right,rgba(204,238,255,0),rgba(204,238,255,0.7),rgba(204,238,255,0));
         border: none;
@@ -125,7 +117,7 @@ hr
 {   
         margin:0vw 0vw 2vw 0vw;
         float:left;
-        width:60vw;
+        width:63vw;
         height:auto;               
 }
 
